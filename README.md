@@ -1,1 +1,1 @@
-# Image-Classification-Object-Detection-Pipeline
+# Image Classification & Object Detection Pipeline
